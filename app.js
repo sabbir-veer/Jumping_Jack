@@ -26,3 +26,5 @@ let checkDead = setInterval(() => {
         num.textContent = score
     }
 }, 50); 
+
+
